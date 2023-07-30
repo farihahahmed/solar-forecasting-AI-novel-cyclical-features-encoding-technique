@@ -1,10 +1,10 @@
 # A novel encoding technique to improve non-weather-based models for solar photovoltaic forecasting
 
+Journal of Emerging Investigators, Vol. 6, July 2023 issue: [http://youngscientistjournal.org/youngscientistjournal/article/developing-cheaper-and-safer-non-weather-based-ai-models-for-microgrid-demand-and-supply-forecasting-in-rural-areas](https://emerginginvestigators.org/articles/a-novel-encoding-technique-to-improve-non-weather-based-models-for-solar-photovoltaic-forecasting)
+
 **Authors:** Farihah Ahmed (Columbia University) and Mauricio Hernandez (Duke University)
 
 **Mentor:** Mauricio Hernandez
-
-Journal of Emerging Investigators, Vol. 6, July 2023 issue: [http://youngscientistjournal.org/youngscientistjournal/article/developing-cheaper-and-safer-non-weather-based-ai-models-for-microgrid-demand-and-supply-forecasting-in-rural-areas](https://emerginginvestigators.org/articles/a-novel-encoding-technique-to-improve-non-weather-based-models-for-solar-photovoltaic-forecasting)
 
 **QUICK INTRO:** Several studies have applied different machine learning (ML) techniques to the area of forecasting solar photovoltaic power production. Most of these studies use weather data as inputs to predict power production; however, there are numerous practical issues with the procurement of this data. This includes the high costs of procurement and lack of backup techniques if communication with weather data services fail. These practical issues are not widely considered yet in the current literature. 
 
