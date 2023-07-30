@@ -11,3 +11,14 @@ The files are numbered and should be run in order.
 4 - Applying ML models (regular)
 
 5 - Cyclical features encoding
+
+
+**To skip the data transformation and just run the models, use the CSV files below and start with file 4 and 5 (applying ML models & cyclical features encoding)**
+
+x.csv: Final input data, but run through the hampel filter
+
+y.csv: Final output data, but run through the hampel filter
+
+xwtime.csv: Final input data, but run through the hampel filter. HAS TIME DATA, used this for cyclical features encoding
+
+ywtime.csv: HAS TIME DATA, used this for cyclical features encoding
