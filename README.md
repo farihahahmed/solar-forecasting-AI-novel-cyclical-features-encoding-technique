@@ -1,5 +1,7 @@
 # A novel encoding technique to improve non-weather-based models for solar photovoltaic forecasting
 
+See INSTRUCTIONS.md
+
 Journal of Emerging Investigators, Vol. 6, July 2023 issue: [http://youngscientistjournal.org/youngscientistjournal/article/developing-cheaper-and-safer-non-weather-based-ai-models-for-microgrid-demand-and-supply-forecasting-in-rural-areas](https://emerginginvestigators.org/articles/a-novel-encoding-technique-to-improve-non-weather-based-models-for-solar-photovoltaic-forecasting)
 
 **Authors:** Farihah Ahmed (Columbia University) and Mauricio Hernandez (Duke University)
