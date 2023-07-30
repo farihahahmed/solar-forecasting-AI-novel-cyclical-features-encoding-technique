@@ -2,6 +2,8 @@
 
 Journal of Emerging Investigators, Vol. 6, July 2023 issue: [http://youngscientistjournal.org/youngscientistjournal/article/developing-cheaper-and-safer-non-weather-based-ai-models-for-microgrid-demand-and-supply-forecasting-in-rural-areas](https://emerginginvestigators.org/articles/a-novel-encoding-technique-to-improve-non-weather-based-models-for-solar-photovoltaic-forecasting)
 
+**See readme_2 for how to use instructions**
+
 **Authors:** Farihah Ahmed (Columbia University) and Mauricio Hernandez (Duke University)
 
 **Mentor:** Mauricio Hernandez
